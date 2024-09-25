@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<body>
+  <h1><strong>education crisis</strong></h1>
+    <link rel="stylesheet" href="styles.css" />
+<div class="what">
+  <h3><strong>what</strong></h3>
+  <p>many people arent aware of what is happening to the education system. It has many faults and is not supporting the amount of people that should be in school. A lot of lower income countries are not able to afford education.  
+</p>
+</div>
+<br>
+<br>
+<div class="who">
+  <h3><strong>who</strong></h3>
+  <p>there are many countries that are affected by this worldwide crisis. Some of the most affected countries are; South Sudan, Afghanistan, Central African Republic, and Niger. <br> There are around 250 million people in the world not in school, and 84 million are at risk of still being out of school by the deadline because of the education crisis. The amount of people that are out of school is a major problem and needs to be solved as soon as possible, which brings me into the solutions.
+</p>
+</div>
+<br>
+<br>
+<div class="solutions">
+  <h3><strong>solutions</strong></h3>
+  <p>Many people have come up with solutions to help with the education crisis. Some of the most prominent are fixing the gaps in teaching and lowering the cost for education. By building inclusive, crisis-resilient education systems that ensure protection of the right to education for children and youth, address the needs of all learners in a holistic way, and include information and tools related to safeguarding health, wellbeing, nutrition, water, sanitation and protection from violence. those are some fairly effective ways to help solve this major problem.</p>
+</div>
+</body>
+</html>
+
+
+body{
+  padding: 25px;
+}
+.what {
+  padding:10px;
+  border:solid 1px;
+  border-color:grey;
+  border-radius:10px;
+  padding:40px;
+}
+.who {
+  padding:10px;
+  border:solid 1px;
+  border-color:grey;
+  border-radius:10px;
+  padding:40px;
+}
+.solutions {
+  padding:10px;
+  border:solid 1px;
+  border-color:grey;
+  border-radius:10px;
+  padding:40px;
+}
