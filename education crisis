@@ -1,51 +1,90 @@
 <!DOCTYPE html>
 <html>
+  <link rel="stylesheet" href="styles.css"/>
 <body>
   <h1><strong>education crisis</strong></h1>
-    <link rel="stylesheet" href="styles.css" />
+    <div class="intro">
+      <h2><strong>Intro</strong></h2>
+      <p>This site is on the global education crisis. It is a big part of many families' challenges around the world. It is a growing issue, and we should be conscious of it at the least.</p>
+    </div>
+    <br>
+    <br>
+    <img src="https://assets.onecompiler.app/42q8wxj2s/42t95pjw6/education.jpeg">
+    <br>
+    <br>
 <div class="what">
-  <h3><strong>what</strong></h3>
+  <h2><strong>What</strong></h2>
   <p>many people arent aware of what is happening to the education system. It has many faults and is not supporting the amount of people that should be in school. A lot of lower income countries are not able to afford education.  
 </p>
 </div>
 <br>
 <br>
 <div class="who">
-  <h3><strong>who</strong></h3>
+  <h2><strong>Who</strong></h2>
   <p>there are many countries that are affected by this worldwide crisis. Some of the most affected countries are; South Sudan, Afghanistan, Central African Republic, and Niger. <br> There are around 250 million people in the world not in school, and 84 million are at risk of still being out of school by the deadline because of the education crisis. The amount of people that are out of school is a major problem and needs to be solved as soon as possible, which brings me into the solutions.
 </p>
 </div>
 <br>
 <br>
 <div class="solutions">
-  <h3><strong>solutions</strong></h3>
+  <h2><strong>Solutions</strong></h2>
   <p>Many people have come up with solutions to help with the education crisis. Some of the most prominent are fixing the gaps in teaching and lowering the cost for education. By building inclusive, crisis-resilient education systems that ensure protection of the right to education for children and youth, address the needs of all learners in a holistic way, and include information and tools related to safeguarding health, wellbeing, nutrition, water, sanitation and protection from violence. those are some fairly effective ways to help solve this major problem.</p>
+</div>
+<br>
+<br>
+<div class="howtohelp">
+  <h2><strong>How you can help</strong></h2>
+  <p>Even though this is a massive problem, everybody can contribute in their own way. Even just by dotating a small amount to the countries in need, you can make a big difference. a great way to help is by spreading knowledge about this topic. If more are aware, then there is more chances to get services or donations. I will put a link to donate. <br><br>https://support.savethechildren.org/site/Donation2?idb=347693748&df_id=1620&mfc_pref=T&1620.donation=form1&1620_donation=form1</p>
 </div>
 </body>
 </html>
 
 
-body{
+body {
   padding: 25px;
+  background-color:#bee6f0;
+}
+.intro {
+  padding:10px;
+  border:solid 1px;
+  border-color:grey;
+  border-radius:20px;
+  padding:40px;
+  background-color:white;
 }
 .what {
   padding:10px;
   border:solid 1px;
   border-color:grey;
-  border-radius:10px;
+  border-radius:20px;
   padding:40px;
+  background-color:white;
 }
 .who {
   padding:10px;
   border:solid 1px;
   border-color:grey;
-  border-radius:10px;
+  border-radius:20px;
   padding:40px;
+  background-color:white;
 }
 .solutions {
   padding:10px;
   border:solid 1px;
   border-color:grey;
-  border-radius:10px;
+  border-radius:20px;
   padding:40px;
+  background-color:white;
+}
+.howtohelp {
+  padding:10px;
+  border:solid 1px;
+  border-color:grey;
+  border-radius:20px;
+  padding:40px;
+  background-color:white;
+}
+img {
+  border-radius:10px;
+  border:solid grey 2px;
 }
